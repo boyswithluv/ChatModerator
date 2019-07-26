@@ -1,5 +1,5 @@
 config:
-    delay-between-messages: 250
+    delay-between-messages: 200
     delay-between-same-messages: 3000
 debug:
     enabled: false
